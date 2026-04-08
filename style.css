@@ -1,0 +1,196 @@
+nav{
+   background-color: rgb(240, 218, 184);
+}
+#Nombre{
+    text-align: left;
+}
+#Perfil{
+    margin: 0 40px;
+    font-size: 30px;
+    text-align: left;
+    text-decoration: none;
+}
+ul{
+    display: flex;
+    list-style: none;
+    justify-content: right;
+    border-style: double;   
+}
+
+ul a{
+    text-decoration: none;
+    color: rgb(7, 127, 233);
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    padding: auto
+}
+
+ul a:hover{
+   background-color: aliceblue;    
+}
+
+li{
+    margin: 20px;
+}
+
+header{
+ background-color: burlywood;
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: rgb(86, 159, 223);
+    
+}
+
+p{
+    color: rgb(52, 14, 14);
+}
+
+h1{
+    text-align: center;
+    color: rgb(76, 135, 186);
+}
+
+h4{
+    color: rgb(2, 40, 74);
+}
+
+nav ul li {
+    text-decoration: none;
+    
+}
+
+#Sobre-mi{
+
+    text-align: center;
+    background-image:url(https://wallpapers.com/images/thumbnail/plain-mountain-art-3n98sfzufnx7snjd.webp);
+    background-size: 50%;
+    border-style: groove;
+}
+
+
+#Formulario{
+ text-align: center;
+ width: auto;
+}
+
+#Trayectoria{
+    
+    text-align: center;
+    width: auto;
+    background-image:url();
+    background-size: 50%;
+    margin: 20px auto;
+}
+
+#Conocimientos{
+    text-align: center;
+}
+
+table{
+    display: flex;
+    font-size: 150%;
+    justify-content: center;  
+}
+#imagenes{
+    display: flex;
+    font-size: 50px;
+    justify-content: center;
+    padding: 50px;
+    
+}
+td{
+    background-color: antiquewhite;
+    text-align: center;
+    padding: 20px;
+}
+#img{
+    border-radius: 100%;
+    border-style: dotted;
+}
+
+#Sobre-mi img{
+    border-style: double;
+    border-radius: 100%;
+}
+
+#Trayectoria img{
+    border-style: double;
+    padding: auto;
+    border-radius: 100%;
+    align-items: center;
+}
+#Proyectos{
+ background-color: antiquewhite;
+ display: flex;
+}
+.Pr{
+ background-color: antiquewhite;
+ padding: 0 0 0 0;
+}
+.P1{
+ justify-content: left;
+ display: flex;
+ margin: 10PX 20px;
+ display: flex;
+ border-style: groove;
+    
+}
+.P2{
+ justify-content: right;
+ display: flex;
+ margin:10px 20px;
+ display: flex;
+ border-style: groove;   
+}
+
+#Proyectos img{
+    border-radius: 40%;
+    border-style: groove;
+}
+
+body{
+    background-color: antiquewhite;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
